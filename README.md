@@ -1,6 +1,6 @@
 # C# 3.0 - Additional Samples
 
-Extra demos that dive deeper into C# 3.0 beyond the core set (P42–P52).
+Extra demos that dive deeper into C# 3.0 beyond the core set (P57–P64).
 
 ## Projects
 - **P57_ImplicitlyTypedArrays** — `new[] { ... }` element type inference.
